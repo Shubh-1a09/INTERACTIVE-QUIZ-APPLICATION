@@ -1,11 +1,18 @@
 # INTERACTIVE-QUIZ-APPLICATION
 
 **COMPANY**: CODTECH IT SOLUTIONS
+
 **NAME**: SHUBHAM GHANSHYAM KHANSARE
+
 **INTERN ID**: CT08INZ
+
 **DOMAIN** : FRONTEND WEB DEVELOMENT
+
 **BATCH DURATION**: December 30th, 2024 to January 30th, 2025
+
 **MENTOR NAME**: NEELA SANTHOSH
+
+
 # DESCRIPTION
 The **Interactive Quiz Application** is a simple yet engaging platform designed to make learning fun and interactive. This application allows users to test their knowledge on various topics, such as geography and programming, in a visually appealing and user-friendly environment. It is suitable for students, teachers, and anyone who wants to challenge themselves while gaining knowledge in an enjoyable way.
 
